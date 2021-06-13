@@ -1,14 +1,24 @@
 {
   "tasks": [
     {
-      "task": "someyaLjjjista",
+      "task": "städa",
       "isCompleted": true,
-      "id": 4
+      "id": 1
     },
     {
-      "task": "someyaLjjjista",
-      "isCompleted": true,
-      "id": 5
+      "task": "träna",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "task": "plugga",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "task": "springa",
+      "isCompleted": false,
+      "id": 4
     }
   ]
 }
